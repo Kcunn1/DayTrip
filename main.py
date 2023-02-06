@@ -22,5 +22,7 @@ while day_trip_is_running == True:
     user_input = input("You happy with this?")
     if user_input == "y":
         day_trip_is_running = False
+        print("Have fun on your day trip!")
+        
     
     
